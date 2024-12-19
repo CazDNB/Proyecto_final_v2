@@ -157,6 +157,5 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-- Autor: [Tu Nombre](https://github.com/tu-usuario)
-- Correo: tu.email@dominio.com
+- Autor: [Nacho Castillo](https://github.com/CazDNB)
 
